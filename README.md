@@ -7,7 +7,7 @@ love building. gradually learning frontend & devops, moving to fullstack.
 - tools: git, docker, docker compose, linux, vite;
 - backend: python (django, drf, fastapi); frontend: react (js / ts), jinja, tailwindcss
 
-love running. struggling to get outside these days, hoping to properly solve this problem. 
+love running. will be ironman one day.
 - completing 5k in 23 minutes; 3k in 13 minutes
 
 love typing. currently have ajazz ak820, but due to my current field work i predominantly use the internal keyboard.
