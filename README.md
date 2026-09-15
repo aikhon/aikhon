@@ -1,4 +1,4 @@
-## Alikhan Ikhlassov
+## Alikhan Ikhlassov. A chill guy.
 a 19 years old teen | long-distance runner | fullstack dev
 
 love building. gradually learning frontend & devops, moving to fullstack.
