@@ -1,4 +1,4 @@
-## Alikhan Ikhlassov, but "messa" on social media.
+## Alikhan Ikhlassov
 a 19 years old teen | long-distance runner | fullstack dev
 
 love building. gradually learning frontend & devops, moving to fullstack.
