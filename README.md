@@ -13,5 +13,5 @@ love running. will be ironman one day.
 love typing. currently have ajazz ak820, but due to my current field work i predominantly use the internal keyboard.
 - russian: 164wpm; english: 175wpm 
 
-[![committers.top badge](https://user-badge.committers.top/kazakhstan/messadf.svg)](https://user-badge.committers.top/kazakhstan/messadf)
-[![committers.top badge](https://user-badge.committers.top/kazakhstan_public/messadf.svg)](https://user-badge.committers.top/kazakhstan_public/messadf)
+[![committers.top badge](https://user-badge.committers.top/kazakhstan/aikhon.svg)](https://user-badge.committers.top/kazakhstan/aikhon)
+[![committers.top badge](https://user-badge.committers.top/kazakhstan_public/aikhon.svg)](https://user-badge.committers.top/kazakhstan_public/aikhon)
