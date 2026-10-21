@@ -8,7 +8,7 @@ love building. gradually learning frontend & devops, moving to fullstack.
 - backend: python (django, drf, fastapi); frontend: react (js / ts), jinja, tailwindcss
 
 love running. will be ironman one day.
-- completing half marathon in 1h 45m; 10k in 48 minutes; 3k in 13 minutes
+- completing half marathon in 1h 55m; 10k in 48 minutes; 3k in 13 minutes
 
 love typing. currently have ajazz ak820, but due to my current field work i predominantly use the internal keyboard.
 - russian: 164wpm; english: 175wpm 
